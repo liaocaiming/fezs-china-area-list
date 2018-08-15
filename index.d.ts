@@ -1,0 +1,1 @@
+export { chinaAreaList } from './chinaAreaList';
