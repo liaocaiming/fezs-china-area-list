@@ -2,10 +2,11 @@
   "name": "fezs-china-area-list",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/liaocaiming/fezs-china-area-list.git",
   "main": "chinaAreaList.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "CaimingLiao",
+  "author": "liaocaiming",
   "license": "ISC"
 }
