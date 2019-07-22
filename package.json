@@ -1,6 +1,6 @@
 {
   "name": "fezs-china-area-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "repository": "https://github.com/liaocaiming/fezs-china-area-list.git",
   "main": "chinaAreaList.js",
